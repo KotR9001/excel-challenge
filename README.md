@@ -24,8 +24,8 @@ Here are some limitations of the dataset.
 a.	The conclusions drawn here are likely only estimates of the true trends involved with Kickstarter campaigns.
 2.	Kickstarter has a number of categories such as ‘Art’, ‘Comics’, ‘Crafts’, and ‘Dance’ that are not represented here in the data. 
 a.	This omission could lead to conclusions that are not fully representative of trends.
-3.	Based on a Time Series Plot, there was a sharp upward trend in the number of Kickstarter campaigns of all ‘States’ from 2009 to 2015, but particularly with respect to successful and failed campaigns. After 2015, there was a precipitous drop in campaigns.
-a.	Assuming the data is representative of Kickstarter campaigns at large, this could indicate that there was some controversy or failing associated with Kickstarter.
+3.	Based on a Time Series Plot, there was a sharp upward trend in the number of Kickstarter campaigns of all ‘States’ from 2009 to 2015, but particularly with respect to successful and failed campaigns. After 2015, there was a precipitous drop in campaigns.<br />
+a.	Assuming the data is representative of Kickstarter campaigns at large, this could indicate that there was some controversy or failing associated with Kickstarter.<br />
 b.	Alternatively, it could indicate that people found a more suitable substitute for crowdfunding campaigns.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/82422d5d-9cdc-4776-a2ca-7b2e29a856c1)
 
