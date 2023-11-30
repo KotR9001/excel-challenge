@@ -7,7 +7,7 @@ Used pivot tables and stacked bar charts to compare data across categories & sub
 
 Based on the data, made the following conclusions.
 
-Conclusions About Kickstarter Campaigns<br />
+<b>Conclusions About Kickstarter Campaigns</b><br />
 Based on the available data, there are multiple conclusions that can be drawn about Kickstarter campaigns. Here are some of them.<br />
 1.	The highest amount of Kickstarter campaigns by far are for theater-this is driven by initiatives for plays.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/cfdf87b2-c135-4949-b1e1-08638a96aeec)
@@ -18,7 +18,7 @@ a.	The amount of successful Kickstarter campaigns tends to peak in May and then 
 b.	The amount of failed and canceled Kickstarter campaigns tends to remain consistent over the course of a year.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/a8fc7d31-60d8-4b20-82ec-935ba2c8edcd)
 
-Limitations of the Dataset
+<b>Limitations of the Dataset</b><br />
 Here are some limitations of the dataset.
 1.	There are little more than 4,000 rows of data, which means that this is likely only a very small portion of all the Kickstarter campaigns that have been run since 2009.<br />
 a.	The conclusions drawn here are likely only estimates of the true trends involved with Kickstarter campaigns.
@@ -29,7 +29,7 @@ a.	Assuming the data is representative of Kickstarter campaigns at large, this c
 b.	Alternatively, it could indicate that people found a more suitable substitute for crowdfunding campaigns.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/82422d5d-9cdc-4776-a2ca-7b2e29a856c1)
 
-Alternative Tables & Graphs
+<b>Alternative Tables & Graphs</b><br />
 There are other possible tables & graphs that could be created to convey more information.<br />
 •	Control Charts could be created to show trending & outliers in the yearly or monthly ‘State’ counts.<br />
 •	Distribution Identification Charts could be made to determine the probability distributions of ‘State’ counts by ‘Category’ from year-to-year to see whether the data is Normal, or whether there are any categories that consistently impart special-cause variation.<br />
