@@ -8,7 +8,7 @@ Used pivot tables and stacked bar charts to compare data across categories & sub
 Based on the data, made the following conclusions.
 
 Conclusions About Kickstarter Campaigns
-Based on the available data, there are multiple conclusions that can be drawn about Kickstarter campaigns. Here are some of them.
+Based on the available data, there are multiple conclusions that can be drawn about Kickstarter campaigns. Here are some of them.<br />
 1.	The highest amount of Kickstarter campaigns by far are for theater-this is driven by initiatives for plays.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/cfdf87b2-c135-4949-b1e1-08638a96aeec)
 2.	Journalism has the fewest Kickstarter campaigns-this is likely in part, because it only possesses one sub-category (audio).<br />
@@ -30,7 +30,7 @@ b.	Alternatively, it could indicate that people found a more suitable substitute
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/82422d5d-9cdc-4776-a2ca-7b2e29a856c1)
 
 Alternative Tables & Graphs
-There are other possible tables & graphs that could be created to convey more information.
+There are other possible tables & graphs that could be created to convey more information.<br />
 •	Control Charts could be created to show trending & outliers in the yearly or monthly ‘State’ counts.<br />
 •	Distribution Identification Charts could be made to determine the probability distributions of ‘State’ counts by ‘Category’ from year-to-year to see whether the data is Normal, or whether there are any categories that consistently impart special-cause variation.<br />
 •	ANOVA or Mood’s Median Analyses could be made to compare yearly ‘State’ counts with ‘Category’ data to see whether the differences between years are statistically significant or not.<br />
