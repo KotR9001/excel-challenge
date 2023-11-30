@@ -7,7 +7,7 @@ Used pivot tables and stacked bar charts to compare data across categories & sub
 
 Based on the data, made the following conclusions.
 
-Conclusions About Kickstarter Campaigns
+Conclusions About Kickstarter Campaigns<br />
 Based on the available data, there are multiple conclusions that can be drawn about Kickstarter campaigns. Here are some of them.<br />
 1.	The highest amount of Kickstarter campaigns by far are for theater-this is driven by initiatives for plays.<br />
 ![image](https://github.com/KotR9001/excel-challenge/assets/57807780/cfdf87b2-c135-4949-b1e1-08638a96aeec)
@@ -20,7 +20,7 @@ b.	The amount of failed and canceled Kickstarter campaigns tends to remain consi
 
 Limitations of the Dataset
 Here are some limitations of the dataset.
-1.	There are little more than 4,000 rows of data, which means that this is likely only a very small portion of all the Kickstarter campaigns that have been run since 2009. 
+1.	There are little more than 4,000 rows of data, which means that this is likely only a very small portion of all the Kickstarter campaigns that have been run since 2009.<br />
 a.	The conclusions drawn here are likely only estimates of the true trends involved with Kickstarter campaigns.
 2.	Kickstarter has a number of categories such as ‘Art’, ‘Comics’, ‘Crafts’, and ‘Dance’ that are not represented here in the data. 
 a.	This omission could lead to conclusions that are not fully representative of trends.
